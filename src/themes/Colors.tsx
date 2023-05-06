@@ -1,0 +1,41 @@
+export const Colors = {
+  backgroundColor: '#fff',
+  backgroundHeader: '#5DB075',
+  drawerBackgroundColor: '#fff',
+  white: '#FFFFFF',
+  black: '#000000',
+  blue1: '#D8FFF2',
+  blue2: '#55C1FF',
+  green1: '#5FCF6F',
+  green2: '#5FCF6F',
+  orange1: '#FFC79F',
+  red0: '#eb3038',
+  red1: '#EB5757',
+  red2: '#FF7070',
+  secondaryColor: 'rgba(255, 255, 255, 0.15)',
+  primary: '#7AEEA2',
+  colorYellow: '#FDD032',
+  colorGreen: '#A6FFC5',
+  black10: 'rgba(224, 224, 224, 0.2)',
+  blue: '#5286F3',
+  blueviolet: '#4718AD',
+  deeppink: '#FFD4D4',
+  purple: '#B1A1FF',
+  pink: '#FF83B9',
+  gray1: '#2B343D',
+  gray2: '#6D767E',
+  gray3: '#A7ADB2',
+  gray4: '#A5A5A5',
+  gray5: '#C6C6C6',
+  gray6: '#D9D9D9',
+  gray7: '#0000001A', //10%
+  gray8: '#00000033', //20%
+  gray9: '#F8F6F0', //54%
+  gray10: '#33333333', //20%
+  gray11: '#484848',
+  yellowBlur: '#FFEC77',
+  yellowBlur2: '#FFFCE6',
+  yellow: {
+    1: '#FFBD12',
+  },
+};
